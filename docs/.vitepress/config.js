@@ -11,5 +11,6 @@ export default {
     nav: [
       { text: 'Ancestries', link: '/ancestries' },
     ]
-  }
+  },
+  cleanUrls: 'with-subfolders'
 }
